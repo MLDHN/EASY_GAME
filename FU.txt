@@ -6,8 +6,13 @@ any words any words
 any words any words
 qwertyasdf
 zxcv
+<<<<<<< HEAD
 herksjf;saf
 ksdjgklsdfg
 asdfas
 dfasf
 asdf
+=======
+qwejukfrhzjklxchsdfgvuSZXCxjkfhgj
+sjkdfhsjkldhfgkz;xdfjklashfg
+>>>>>>> MEGAHOROSH
